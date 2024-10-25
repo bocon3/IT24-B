@@ -107,3 +107,5 @@ async fetchWeatherByLocation() {
     }
 
 }
+
+const weatherApp = new WeatherService();
